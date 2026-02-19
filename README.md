@@ -1,1 +1,1 @@
-"# ResidentRegistration" 
+住民情報管理システム.mp4でアプリの動作確認を見ることができます
